@@ -8,6 +8,6 @@
 #
 #   Terceiro teste
 #
-#   Teste de conlito.
+#   Teste de conflito.
 #
 #   Teste da interface.

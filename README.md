@@ -2,12 +2,13 @@
 #  Repositório de teste
 #  Clone deste repositório
 #
+#
 #  Primeiro teste
 #
 #  Segundo teste
 #
 #   Terceiro teste
 #
-#   Teste de conflito.
+#   Teste da interface
 #
-#   Teste da interface.
+#
